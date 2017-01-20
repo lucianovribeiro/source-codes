@@ -25,7 +25,6 @@ ll dp[MAXN][MAXN];
 int L[MAXN][MAXN];
 int N, K;
 
-
 /*
 ll S(int n, int k){
 	if (k == 1) return C[1][n];
